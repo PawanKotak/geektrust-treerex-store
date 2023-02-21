@@ -1,6 +1,39 @@
-# Getting Started with Create React App
+# Geektrust Code Challenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Geektrust Code Challenge Link](https://www.geektrust.com/coding/detailed/teerex-store)
+
+This project is bootstrapped with [Create React App](https://github.com/facebook/create-react-app). I have used [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) and [Bootstrap](https://getbootstrap.com/) also in this project. And React Context API is used for state management
+
+[Live Site Link](https://geektrust-teerex-store.netlify.app/)
+
+### Result
+
+1. Store desktop view
+   ![Result](./result/Result1.jpg)
+
+2. Store product with filter applied
+   ![Result](./result/Result2.jpg)
+
+3. Store product with search filter
+   ![Result](./result/Result3.jpg)
+
+4. Store product with filter + serch
+   ![Result](./result/Result4.jpg)
+
+5. Add product to cart
+   ![Result](./result/Result5.jpg)
+
+6. Cart view in desktop
+   ![Result](./result/Result6.jpg)
+
+7. Mobile view/Responsive view
+   ![Result](./result/Result7.jpg)
+
+8. Cart view in mobile
+   ![Result](./result/Result8.jpg)
+
+9. Code Coverage 80+
+   ![Result](./result/Result9.jpg)
 
 ## Available Scripts
 
@@ -26,45 +59,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
